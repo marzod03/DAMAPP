@@ -43,16 +43,6 @@ InclusiJob es una aplicación que permite a los usuarios generar currículums en
 - **JWT (JSON Web Token)**: Para la autenticación de usuarios.
 - **Multer**: Para la subida y manejo de archivos PDF en el servidor.
 
-## Capturas de Pantalla
-
-### Inicio
-![Inicio](path/to/your/screenshot1.png)
-
-### Creación de Currículum
-![Creación de CV](path/to/your/screenshot2.png)
-
-### Visualización de PDF
-![Visualización de PDF](path/to/your/screenshot3.png)
 
 ## Instalación
 
